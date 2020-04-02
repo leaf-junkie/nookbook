@@ -2,7 +2,7 @@
 An all-encompassing guide for Animal Crossing: New Horizons. 
 
 ## Motivation
-We're here to help you track every fish, bug, and fossil, as well as cook up every DIY recipe in the game. DI-WHY, You might ask? You shouldn't have to look in every nook 'n cranny of the internet to find information on this game. As deserted island developers, we want a more intuitive guide to reference while playing the game.
+We're here to help you track every fish, bug, and fossil, as well as cook up every DIY recipe in the game. DI-WHY, You might ask? You shouldn't have to look into every nook 'n cranny of the internet to find information on this game. As deserted island developers, we want a more intuitive guide to reference while playing the game.
 
 ## Screentshots
 
